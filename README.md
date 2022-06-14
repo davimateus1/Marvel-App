@@ -9,6 +9,8 @@
   <a href="#-colaboradores">Colaboradores</a>
 </p>
 
+<br>
+
 ## 📷 Tela de Carregamento
 
 <p align="center">
@@ -51,8 +53,9 @@
 
 ## 💻 Projeto
 
-APP da Marvel criado em grupo!
-Tem como objetivo, mostrar um pouco sobre os heróis principais da Marvel. Facilitando assim, a vida dos usuários que buscam conhecimento sobre os heróis.
+Aplicação criada com o intuito de listar os principais heróis da Marvel e ao clicar em cada um ter uma descrição breve sobre o mesmo, além de ter uma tela de desenvolvedores que ao clicar em alguma das fotos, irá redirecionar para uma tela personalizada onde contém informações interessantes sobre cada um dos mesmos.
+
+<br>
 
 ## ✨ Tecnologias
 
@@ -60,12 +63,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Kotlin](https://kotlinlang.org/)
 
+<br>
+
 ## 🚀 Como executar
 
 - Instale o Android Studio
 - Clone o repositório
 - Instale as dependências necessárias
 - Conecte a um dispositivo android ou emulador
+
+<br>
 
 ## 👷 COLABORADORES
 
@@ -77,6 +84,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Nome: Ronny Lima Ribeiro da Silva
 - GitHub: [ronnylrsd](https://github.com/ronnylrsd)
+
+<br>
 
 ---
 
