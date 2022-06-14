@@ -6,7 +6,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-colaborador">Colaboradores</a>
+  <a href="#-colaboradores">Colaboradores</a>
 </p>
 
 ## 📷 Tela de Carregamento
@@ -70,17 +70,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 👷 COLABORADORES
 
 #### Nome: Davi Mateus Gomes de Almeida
-- Registro do Aluno (RA): 00000009775
 - GitHub: [davimateus1](https://github.com/davimateus1)
 
 #### Nome: João Vitor Machado Andrade Sousa
-- Registro do Aluno (RA): 00000009960
 - GitHub: [joovitor12](https://github.com/joovitor12)
 
 #### Nome: Ronny Lima Ribeiro da Silva
-- Registro do Aluno (RA): 00000004954
 - GitHub: [ronnylrsd](https://github.com/ronnylrsd)
 
 ---
 
-Projeto desenvolvido a partir de aulas da cadeira de Programação Web e Mobile, além disso vídeos no Youtube.
+<h3 align="center"> Projeto desenvolvido em Equipe para a cadeira de Programação Web e Mobile no 5° periodo da faculdade. </h3>
